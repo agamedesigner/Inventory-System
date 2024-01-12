@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc44ce152c4b8ec44bf977234f5cf2d5, type: 3}
+  m_Name: odun2
+  m_EditorClassIdentifier: 
+  ItemAdi: Odun
+  ItemAciklama: "A\u011Fa\xE7 par\xE7alar\u0131"
+  Birikebilir: 1
+  ItemResim: {fileID: 21300000, guid: 6c722ba6259b71047be967b53c4117f5, type: 3}
+  ItemPrefab: {fileID: 5235888285539143287, guid: eda9a0e416e4eaa41949e88e48b246df,
+    type: 3}
+  damage: 0
